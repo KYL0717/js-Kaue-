@@ -4,7 +4,6 @@ function setup() {
 }
 
 function draw() {
-  
   stroke("white");
   fill("orange");
   // console.log(mouseIsPressed)
